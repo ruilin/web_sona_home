@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://web-sona-home.vercel.app/sitemap.xml
+Sitemap: https://sona-rl-studio.vercel.app/sitemap.xml
