@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sona-rl-studio.vercel.app/sitemap.xml
+Sitemap: https://sona-orpin-eight.vercel.app/sitemap.xml
